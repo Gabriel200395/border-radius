@@ -1,6 +1,6 @@
 <h1 align="center">App Border Radius</h1>
 <h4 align="center">
-  <img src="/public/Gif/fruits.gif"  width="1000"/>
+  <img src="/public/Gif/border-radius.gif"  width="1000"/>
 </h4>
 
 <p align="center">
