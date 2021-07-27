@@ -14,7 +14,7 @@
 <!--EXEMPLO:-->
 
 - [React](https://pt-br.reactjs.org/)
-- [Axios](https://www.typescriptlang.org/)
+- [Typescript](https://www.typescriptlang.org/)
 
 ## 💻 Como usar
 
