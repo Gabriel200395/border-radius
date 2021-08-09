@@ -18,7 +18,7 @@ const [property, setProperty] = useState<propertyState>(
   return (
     <div className="border-container">
       <h1>Border Radius</h1>
-      <p>border radius project</p> 
+      <p>border radius</p> 
       <div>
          <div className="input-control">
           <Input  
